@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hina Asad</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina672&label=Profile%20views&color=0e75b6&style=flat" alt="hina672" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@codinggpt" target="blank"><img src="https://img.shields.io/twitter/follow/@codinggpt?logo=twitter&style=for-the-badge" alt="@codinggpt" /></a> </p>
+
 
 - 🌱 I’m currently learning **web3.O**
 
