@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hina Asad</h1>
+<img align="right" alt="coding"width="350"src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47s445gxy43dz5c33z1hz0vzaojprywu34qpiban8t&rid=giphy.gif&ct=g">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina672&label=Profile%20views&color=0e75b6&style=flat" alt="hina672" /> </p>
 
-<img align="right" alt="coding"width="350"src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP">
 
 - 🌱 I’m currently learning **web3.O**
 
