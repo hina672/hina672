@@ -1,3 +1,4 @@
+![logo](https://github.com/hina672/hina672/blob/main/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Hina Asad</h1>
 <img align="right" alt="coding"width="350"src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47s445gxy43dz5c33z1hz0vzaojprywu34qpiban8t&rid=giphy.gif&ct=g">
 
