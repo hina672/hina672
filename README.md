@@ -12,8 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@codinggpt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@codinggpt" height="30" width="40" /></a>
-<a href="https://instagram.com/hinaaa_asad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hinaaa_asad" height="30" width="40" /></a>
-<a href="https://discord.gg/#3981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3981" height="30" width="40" /></a>    
 <a href="https://linkedin.com/in/hina-asad-4731a525b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina-asad-4731a525b" height="30" width="40" /></a>
 </p>
 
