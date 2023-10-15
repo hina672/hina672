@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina672&label=Profile%20views&color=0e75b6&style=flat" alt="hina672" /> </p>
 
 
-- 🌱 I’m currently learning **web3.O**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **hinaasad672@outlook.com**
 
