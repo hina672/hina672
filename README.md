@@ -15,8 +15,8 @@
 </p>
 
 <p align="left">
-<a href="https://www.kaggle.com/myregistration123" target="_blank">
-    <img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="myregistration123" height="30" width="40" />
+<a href="https://www.kaggle.com/hinaasad" target="_blank">
+    <img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="hinaasad" height="30" width="40" />
 </a>
 
 
