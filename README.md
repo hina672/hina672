@@ -26,9 +26,10 @@
 
 <p align="left">
   <a href="https://x.com/hina_asad_?t=ZJHs2GkeyYS2gNA4Esl6EA&s=09" target="_blank">
-    <img align="center" src="https://example.com/path/to/twitter-logo.svg" alt="hina_asad_" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="hina_asad_" height="30" width="40" />
   </a>
 </p>
+
 
 </p>
 
