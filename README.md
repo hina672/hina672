@@ -26,9 +26,10 @@
 
 <p align="left">
   <a href="https://stackoverflow.com/users/23602202/hinaasad" target="_blank">
-    <img align="center" src="https://i.imgur.com/your-stackoverflow-logo.png" alt="hinaasad" height="30" width="40" />
+    <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="hinaasad" height="30" width="40" />
   </a>
 </p>
+
 
 
 
