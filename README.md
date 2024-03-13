@@ -20,15 +20,18 @@
 </a>
 
 <p align="left">
-  <a href="https://x.com/hina_asad_?t=ZJHs2GkeyYS2gNA4Esl6EA&s=09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg" alt="hina_asad_" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/23602202/hinaasad" target="_blank">
+    <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="hinaasad" height="100" width="40" />
   </a>
 
 <p align="left">
-  <a href="https://stackoverflow.com/users/23602202/hinaasad" target="_blank">
-    <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="hinaasad" height="60" width="40" />
+  <a href="https://x.com/hina_asad_?t=ZJHs2GkeyYS2gNA4Esl6EA&s=09" target="_blank">
+    <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="hina_asad_" height="30" width="40" />
   </a>
 </p>
+
+</p>
+
 
 
 
