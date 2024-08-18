@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina672&label=Profile%20views&color=0e75b6&style=flat" alt="hina672" /> </p>
 
 
-- 🌱 I’m currently learning **Data Science**
+<!--- 🌱 I’m currently learning **Data Science**-->
 
 - 📫 How to reach me **hinaasad672@outlook.com**
 
@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/hina-asad-4731a525b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hina-asad-4731a525b" height="30" width="40" /></a>
 </p>
 
-<p align="left">
+<!---<p align="left">
 <a href="https://www.kaggle.com/hinaasad" target="_blank">
     <img align="center" src="https://www.kaggle.com/static/images/site-logo.png" alt="hinaasad" height="30" width="40" />
 </a>
@@ -22,7 +22,7 @@
 <p align="left">
   <a href="https://stackoverflow.com/users/23602202/hinaasad" target="_blank">
     <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="hinaasad" height="30" width="40" />
-  </a>
+  </a> -->
 
 
 </p>
