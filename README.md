@@ -1,6 +1,6 @@
 ![logo](https://github.com/hina672/hina672/blob/main/maxresdefault.jpg)
 <h1 align="center">Hi 👋, I'm Hina Asad</h1>
-<img align="right" alt="coding"width="350"src="https://media4.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47s445gxy43dz5c33z1hz0vzaojprywu34qpiban8t&rid=giphy.gif&ct=g">
+<img align="right" alt="coding"width="350"src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*DsIpnvUFCtKFEXCWLx3g5Q.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hina672&label=Profile%20views&color=0e75b6&style=flat" alt="hina672" /> </p>
 
